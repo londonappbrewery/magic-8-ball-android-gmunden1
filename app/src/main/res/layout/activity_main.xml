@@ -43,7 +43,7 @@
             android:background="#3F51B5"
             android:text="@string/string_askbutton"
             android:textColor="#FFFFFF"
-            android:textSize="21sp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 
